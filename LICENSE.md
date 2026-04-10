@@ -8,7 +8,7 @@
 
 [![Download Now](https://img.shields.io/badge/⬇️%20Download%20Script-Click%20Here-orange?style=for-the-badge)](https://wikiadptme.github.io/adopt-me/)
 
-<img width="1388" height="783" alt="Adopt Me Script: Tradable Pet Spawner, Auto Farm, Scam, All Pets" src="https://github.com/user-attachments/assets/370fd3d7-a789-41d9-88f1-5436f949eed8" />
+<img width="1280" height="720" alt="Adopt Me Script: Tradable Pet Spawner, Auto Farm, Scam, All Pets" src="https://github.com/user-attachments/assets/f110e2dd-1be7-4b23-90c7-380f2df3f380" />
 
 ---
 
